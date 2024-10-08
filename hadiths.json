@@ -1,0 +1,596 @@
+[
+    {
+        "name": "Happy",
+        "emoji": "😊",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever is not thankful for small things will not be thankful for large things.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Tirmidhi 2444"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'A joyful heart is a sign of faith, and a sad heart is a sign of disbelief.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 2518"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'Smiling in the face of your brother is charity.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 3008"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'Allah is in the aid of His servant as long as the servant is in the aid of his brother.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2699"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'The example of the believers in their affection, mercy, and compassion is that of a body. When any limb aches, the whole body reacts with sleeplessness and fever.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6011"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'He who does not thank people is not thankful to Allah.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 4811"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever brings happiness to his brother, Allah will fill his heart with happiness on the Day of Resurrection.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 73"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'The best of people are those that bring most benefit to the rest of mankind.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Daraqutni, Hasan"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever loves for his brother what he loves for himself, he has fulfilled the requirements of faith.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 13"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'The best among you are those who have the best manners and character.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 3559"
+            }
+        ]
+    },
+    {
+        "name": "Sad",
+        "emoji": "😢",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Woe to him who seeks joy by harming his neighbor!'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6093"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'A man who carries a load of books and teaches people is like a warrior going out to fight in the cause of Allah.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 71"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'When Allah loves a servant, He tests him.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Tirmidhi 2343"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 5641"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'The greatest sins are the sins against oneself.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 76"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever does not show mercy to others, will not be shown mercy.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2299"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'The strong person is not the one who overcomes people by his strength, but the strong person is the one who controls himself while in anger.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6114"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever among you wakes up secure in his property, healthy in his body, and has his food to eat, it is as if the whole world is given to him.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 2344"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'The example of a good companion and a bad companion is like that of the seller of musk and the blacksmith. The seller of musk would either give you some free of charge or you would buy some from him, or you would smell its pleasant fragrance. As for the blacksmith, he either burns your clothes or you smell a repugnant smell.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6511"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'Never ascribe to Allah a desire in the least like the desire of a human being.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2269"
+            }
+        ]
+    },
+    {
+        "name": "Angry",
+        "emoji": "😡",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever restrains his anger, even if he has to swallow a bone, is not a loser.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6114"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'Anger is from Satan, and Satan was created from fire.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 3445"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6114"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'He who is slow to anger has great understanding, and he who has great understanding is filled with mercy.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2518"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'If any of you becomes angry, let him perform ablution and rub his face and hands with water.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6113"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'When one of you becomes angry, let him sit down. If the anger leaves him, then good; otherwise, let him lie down.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Abi Dawood 4774"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'Anger is a disease that the strong should cure.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2570"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'The most complete of the believers in faith is he who is best of them in manners.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 1162"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'Make peace between people, for peace leads to righteousness, and righteousness leads to Paradise.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2700"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'The best of people are those that bring most benefit to the rest of mankind.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Daraqutni, Hasan"
+            }
+        ]
+    },
+    {
+        "name": "Scared",
+        "emoji": "😱",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Do not worry about what has passed and do not be saddened by what will come.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2222"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'When one of you fears, let him say, "In the name of Allah, with whose name nothing is too hidden nor too apparent, He is the All-Hearing, All-Knowing."'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2245"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever fears Allah, He will make for him a way out.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 2391"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'Seek refuge in Allah from the torment of Hellfire.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2534"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'Allah is with those who are patient.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6024"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'There is no disease that Allah has created, except that He also has created its treatment.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 5673"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'If anyone of you sees something that he likes, let him say, "All praise is due to Allah who has gifted us with this and has taken it away from us."'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2258"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever says, "In the name of Allah, the Most Gracious, the Most Merciful," one hundred times a day, will have a palace built for him in Paradise.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 3506"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever relies upon Allah, then He is sufficient for him.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6476"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'Indeed, with every difficulty there is relief.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 5731"
+            }
+        ]
+    },
+    {
+        "name": "Disappointed",
+        "emoji": "😞",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Indeed, Allah is with the patient.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 5732"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick he receives from a thorn, but that Allah expiates some of his sins for that.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 5641"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'When Allah loves a servant, He tests him.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 2343"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'The most beloved of deeds to Allah are those that are most consistent, even if they are few.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6469"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever does not thank people, does not thank Allah.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 4811"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'The best of people are those who are most beneficial to people.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Daraqutni, Hasan"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'Make things easy for people and do not make things difficult for them, and give them good tidings and do not repulse them.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6016"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'The example of a good companion and a bad companion is like that of the seller of musk and the blacksmith. The seller of musk would either give you some free of charge or you would buy some from him, or you would smell its pleasant fragrance. As for the blacksmith, he either burns your clothes or you smell a repugnant smell.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6511"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'He who believes in Allah and the Last Day should speak good or remain silent.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6474"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'The best of you are those who are best to their families, and I am the best among you to my family.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 3895"
+            }
+        ]
+    },
+    {
+        "name": "Confused",
+        "emoji": "😕",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Seek knowledge from the cradle to the grave.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Al-Hakim"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever takes a path upon which to obtain knowledge, Allah makes the path to Paradise easy for him.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2699"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'The best of you are those who learn the Quran and teach it.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 5027"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'Wisdom is the lost property of the believer, wherever he finds it he has the right to it.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2699"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'Make things easy for people and do not make things difficult for them, and make them calm with glad tidings and do not repel them.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6464"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'The example of the one who guides others to something good is like one who lights a lamp, then all people benefit from the light.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2218"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'The most beloved of deeds to Allah are those that are most consistent, even if they are few.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6469"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'He who seeks knowledge for the sake of Allah, his journey towards it is blessed.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 1"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'Knowledge is a treasure that never decreases by taking from it.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan al-Tirmidhi 2517"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'A believer to another believer is like a building whose different parts enforce each other.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 4811"
+            }
+        ]
+    },
+    {
+        "name": "Grateful",
+        "emoji": "🥹",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever is not grateful for small things will not be grateful for large things.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 2444"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'He who does not thank people, does not thank Allah.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 4811"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'The best of people are those that bring most benefit to the rest of mankind.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Daraqutni, Hasan"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'Allah is pleased with His servant who eats a meal and then says, "Alhamdulillah" (All praise is due to Allah).'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 1056"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'Every act of kindness is charity.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 1828"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'The best of deeds is to bring happiness to a believer's heart.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 72"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'Allah is more pleased with his servant who does good deeds even if they are small.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6469"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'Make peace between people, for peace leads to righteousness, and righteousness leads to Paradise.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2700"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'The most beloved of deeds to Allah are those that are consistent, even if they are few.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6469"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever believes in Allah and the Last Day should speak good or remain silent.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6474"
+            }
+        ]
+    },
+    {
+        "name": "Regretful",
+        "emoji": "😭",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever repents from sin is like one who did not sin.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2244"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'Allah is more merciful to His servants than a mother is to her child.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6473"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'The best of you are those who are best to their families, and I am the best among you to my family.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 3895"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'A man who repents from sin is like one who has never sinned.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2244"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever fears Allah, He will pardon him his sins and make great for him His rewards.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 2516"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'Every son of Adam sins, and the best of the sinners are those who repent.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2254"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'He who repents from sin is like one who has never sinned.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2244"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'Allah is more merciful to His servants than a mother is to her child.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6473"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'Forgive others as you would like Allah to forgive you.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6476"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'The best of people are those who are most beneficial to the people.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Daraqutni, Hasan"
+            }
+        ]
+    },
+    {
+        "name": "Lazy",
+        "emoji": "🥱",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "The Prophet (peace be upon him) said, 'Take advantage of five before five: your youth before your old age, your health before your sickness, your wealth before your poverty, your free time before your preoccupation, and your life before your death.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih al-Jami' 1648"
+            },
+            {
+                "id": 2,
+                "quote": "The Prophet (peace be upon him) said, 'The strong believer is better and more beloved to Allah than the weak believer, while there is good in both.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Muslim 2664"
+            },
+            {
+                "id": 3,
+                "quote": "The Prophet (peace be upon him) said, 'The most beloved of deeds to Allah are those that are most consistent, even if they are few.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6469"
+            },
+            {
+                "id": 4,
+                "quote": "The Prophet (peace be upon him) said, 'Make things easy for people and do not make things difficult for them, and give them good tidings and do not repel them.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 6464"
+            },
+            {
+                "id": 5,
+                "quote": "The Prophet (peace be upon him) said, 'Allah does not burden a soul beyond that it can bear.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 3247"
+            },
+            {
+                "id": 6,
+                "quote": "The Prophet (peace be upon him) said, 'The best of people are those that bring most benefit to the rest of mankind.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Daraqutni, Hasan"
+            },
+            {
+                "id": 7,
+                "quote": "The Prophet (peace be upon him) said, 'Whoever takes a path upon which to obtain knowledge, Allah makes the path to Paradise easy for him.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan At-Tirmidhi 2517"
+            },
+            {
+                "id": 8,
+                "quote": "The Prophet (peace be upon him) said, 'The example of the one who guides others to something good is like one who lights a lamp, then all people benefit from the light.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sunan Ibn Majah 2218"
+            },
+            {
+                "id": 9,
+                "quote": "The Prophet (peace be upon him) said, 'He who brings happiness to his brother, Allah will fill his heart with happiness on the Day of Resurrection.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 73"
+            },
+            {
+                "id": 10,
+                "quote": "The Prophet (peace be upon him) said, 'The best of you are those who learn the Quran and teach it.'”",
+                "author": "Prophet Muhammad (peace be upon him)",
+                "reference": "Sahih Bukhari 5027"
+            }
+        ]
+    }
+]

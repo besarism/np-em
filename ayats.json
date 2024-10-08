@@ -1,0 +1,596 @@
+[
+    {
+        "name": "Happy",
+        "emoji": "😊",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“Indeed, in the remembrance of Allah do hearts find rest.”",
+                "author": "Quran",
+                "reference": "13:28"
+            },
+            {
+                "id": 2,
+                "quote": "“So which of the favors of your Lord would you deny?”",
+                "author": "Quran",
+                "reference": "55:13"
+            },
+            {
+                "id": 3,
+                "quote": "“And whatever of blessings and good things you have, it is from Allah.”",
+                "author": "Quran",
+                "reference": "16:53"
+            },
+            {
+                "id": 4,
+                "quote": "“Say, 'In the bounty of Allah and in His mercy— in that let them rejoice; it is better than what they accumulate.'”",
+                "author": "Quran",
+                "reference": "10:58"
+            },
+            {
+                "id": 5,
+                "quote": "“And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good.”",
+                "author": "Quran",
+                "reference": "29:69"
+            },
+            {
+                "id": 6,
+                "quote": "“Whoever does righteous deeds, whether male or female, while being a believer – those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed.”",
+                "author": "Quran",
+                "reference": "4:124"
+            },
+            {
+                "id": 7,
+                "quote": "“Enter Paradise, you and your kindred, delighted.”",
+                "author": "Quran",
+                "reference": "35:33"
+            },
+            {
+                "id": 8,
+                "quote": "“Those who have believed and whose descendants followed them in faith – We will join with them their descendants, and We will not deprive them of anything of their deeds.”",
+                "author": "Quran",
+                "reference": "39:73"
+            },
+            {
+                "id": 9,
+                "quote": "“Indeed, Allah does not change the condition of a people until they change what is in themselves.”",
+                "author": "Quran",
+                "reference": "13:11"
+            },
+            {
+                "id": 10,
+                "quote": "“And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you. Indeed, your Lord is swift in penalty; but indeed, He is Forgiving and Merciful.”",
+                "author": "Quran",
+                "reference": "6:165"
+            }
+        ]
+    },
+    {
+        "name": "Sad",
+        "emoji": "😢",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease.”",
+                "author": "Quran",
+                "reference": "94:5-6"
+            },
+            {
+                "id": 2,
+                "quote": "“No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim... but that Allah expiates some of his sins.”",
+                "author": "Quran",
+                "reference": "9:129"
+            },
+            {
+                "id": 3,
+                "quote": "“Do not lose hope, nor be sad.”",
+                "author": "Quran",
+                "reference": "3:139"
+            },
+            {
+                "id": 4,
+                "quote": "“And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.”",
+                "author": "Quran",
+                "reference": "2:155"
+            },
+            {
+                "id": 5,
+                "quote": "“Indeed, Allah is with the patient.”",
+                "author": "Quran",
+                "reference": "2:153"
+            },
+            {
+                "id": 6,
+                "quote": "“O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.”",
+                "author": "Quran",
+                "reference": "2:153"
+            },
+            {
+                "id": 7,
+                "quote": "“And He it is who makes [one] laugh and weep.”",
+                "author": "Quran",
+                "reference": "53:43"
+            },
+            {
+                "id": 8,
+                "quote": "“And whoever fears Allah – He will make for him a way out and will provide for him from where he does not expect.”",
+                "author": "Quran",
+                "reference": "65:2-3"
+            },
+            {
+                "id": 9,
+                "quote": "“And [Allah] has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts that you might give thanks.”",
+                "author": "Quran",
+                "reference": "16:78"
+            },
+            {
+                "id": 10,
+                "quote": "“So whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it.”",
+                "author": "Quran",
+                "reference": "99:7-8"
+            }
+        ]
+    },
+    {
+        "name": "Angry",
+        "emoji": "😡",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“Who restrain anger and who pardon the people—And Allah loves the doers of good.”",
+                "author": "Quran",
+                "reference": "3:134"
+            },
+            {
+                "id": 2,
+                "quote": "“And the servants of the Most Merciful are those who walk upon the earth easily, and when the ignorant address them [harshly], they say [words of] peace,”",
+                "author": "Quran",
+                "reference": "25:63"
+            },
+            {
+                "id": 3,
+                "quote": "“And whoever is patient and forgives – indeed, that is of the matters [requiring] determination.”",
+                "author": "Quran",
+                "reference": "42:43"
+            },
+            {
+                "id": 4,
+                "quote": "“Repel evil with that which is better. We are most knowing of what they describe.”",
+                "author": "Quran",
+                "reference": "23:96"
+            },
+            {
+                "id": 5,
+                "quote": "“So remember Me; I will remember you. And be thankful to Me and do not deny Me.”",
+                "author": "Quran",
+                "reference": "2:152"
+            },
+            {
+                "id": 6,
+                "quote": "“O you who have believed, do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness.”",
+                "author": "Quran",
+                "reference": "5:8"
+            },
+            {
+                "id": 7,
+                "quote": "“And do not kill the soul which Allah has forbidden, except by right.”",
+                "author": "Quran",
+                "reference": "17:33"
+            },
+            {
+                "id": 8,
+                "quote": "“The good deed and the evil deed cannot be equal. Repel [evil] by that [deed] which is better; and thereupon the one whom between you and him is enmity [will become] as though he was a devoted friend.”",
+                "author": "Quran",
+                "reference": "41:34"
+            },
+            {
+                "id": 9,
+                "quote": "“And whoever does righteous deeds, whether male or female, while being a believer – those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed.”",
+                "author": "Quran",
+                "reference": "4:124"
+            },
+            {
+                "id": 10,
+                "quote": "“And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allah, and let them pardon and overlook. Would you not like that Allah should forgive you? And Allah is Forgiving and Merciful.”",
+                "author": "Quran",
+                "reference": "24:22"
+            }
+        ]
+    },
+    {
+        "name": "Scared",
+        "emoji": "😱",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“Say, 'Never will we be struck except by what Allah has decreed for us; He is our protector.' And upon Allah let the believers rely.”",
+                "author": "Quran",
+                "reference": "9:51"
+            },
+            {
+                "id": 2,
+                "quote": "“And whoever fears Allah – He will make for him a way out and will provide for him from where he does not expect.”",
+                "author": "Quran",
+                "reference": "65:2-3"
+            },
+            {
+                "id": 3,
+                "quote": "“Indeed, whoever fears Allah – He will make for him a way out.”",
+                "author": "Quran",
+                "reference": "65:2"
+            },
+            {
+                "id": 4,
+                "quote": "“Allah is the ally of those who fear Him, and He brings them out from darknesses into the light.”",
+                "author": "Quran",
+                "reference": "5:16"
+            },
+            {
+                "id": 5,
+                "quote": "“And whoever fears Allah – He will make for him a way out.”",
+                "author": "Quran",
+                "reference": "65:2"
+            },
+            {
+                "id": 6,
+                "quote": "“And whoever relies upon Allah – then He is sufficient for him.”",
+                "author": "Quran",
+                "reference": "65:3"
+            },
+            {
+                "id": 7,
+                "quote": "“And whoever fears Allah – He will make for him a way out.”",
+                "author": "Quran",
+                "reference": "65:2"
+            },
+            {
+                "id": 8,
+                "quote": "“And whoever fears Allah – He will pardon him his sins and make great for him His rewards.”",
+                "author": "Quran",
+                "reference": "65:5"
+            },
+            {
+                "id": 9,
+                "quote": "“Indeed, those who have believed and those who were Jews or Christians or Sabeans – those [among them] who believed in Allah and the Last Day and did righteousness – no fear will there be concerning them, nor will they grieve.”",
+                "author": "Quran",
+                "reference": "2:62"
+            },
+            {
+                "id": 10,
+                "quote": "“Whoever desires the reward of this world - then with Allah is the reward of this world and the Hereafter. And ever is Allah Hearing and Seeing.”",
+                "author": "Quran",
+                "reference": "3:185"
+            }
+        ]
+    },
+    {
+        "name": "Disappointed",
+        "emoji": "😞",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“But perhaps you hate a thing and it is good for you; and perhaps you love a thing and it is bad for you. Allah knows, while you know not.”",
+                "author": "Quran",
+                "reference": "2:216"
+            },
+            {
+                "id": 2,
+                "quote": "“And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient.”",
+                "author": "Quran",
+                "reference": "2:155"
+            },
+            {
+                "id": 3,
+                "quote": "“Indeed, Allah is with the patient.”",
+                "author": "Quran",
+                "reference": "2:153"
+            },
+            {
+                "id": 4,
+                "quote": "“O you who have believed, do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness.”",
+                "author": "Quran",
+                "reference": "5:8"
+            },
+            {
+                "id": 5,
+                "quote": "“Our Lord, do not impose blame upon us if we forget or make a mistake. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear.”",
+                "author": "Quran",
+                "reference": "2:286"
+            },
+            {
+                "id": 6,
+                "quote": "“So exalted is Allah when you reach the evening and when you reach the morning.”",
+                "author": "Quran",
+                "reference": "30:18"
+            },
+            {
+                "id": 7,
+                "quote": "“Indeed, Allah does not change the condition of a people until they change what is in themselves.”",
+                "author": "Quran",
+                "reference": "13:11"
+            },
+            {
+                "id": 8,
+                "quote": "“And it is He who created from water a human being and made him [a relative by] lineage and marriage. And ever is your Lord competent [concerning creation].”",
+                "author": "Quran",
+                "reference": "25:54"
+            },
+            {
+                "id": 9,
+                "quote": "“And whoever desires the reward of this world - then with Allah is the reward of this world and the Hereafter. And ever is Allah Hearing and Seeing.”",
+                "author": "Quran",
+                "reference": "3:185"
+            },
+            {
+                "id": 10,
+                "quote": "“So whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it.”",
+                "author": "Quran",
+                "reference": "99:7-8"
+            }
+        ]
+    },
+    {
+        "name": "Confused",
+        "emoji": "😕",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“And when My servants ask you concerning Me – indeed I am near. I respond to the invocation of the supplicant when he calls upon Me.”",
+                "author": "Quran",
+                "reference": "2:186"
+            },
+            {
+                "id": 2,
+                "quote": "“O mankind, there has come to you a conclusive proof from your Lord, and We have sent down to you a clear light.”",
+                "author": "Quran",
+                "reference": "4:174"
+            },
+            {
+                "id": 3,
+                "quote": "“Do you not see that Allah has sent down rain from the sky and made it flow as springs in the earth?”",
+                "author": "Quran",
+                "reference": "42:11"
+            },
+            {
+                "id": 4,
+                "quote": "“And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you.”",
+                "author": "Quran",
+                "reference": "6:165"
+            },
+            {
+                "id": 5,
+                "quote": "“Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding.”",
+                "author": "Quran",
+                "reference": "39:9"
+            },
+            {
+                "id": 6,
+                "quote": "“And whoever disbelieves in the verses of Allah will not have any protector or any helper.”",
+                "author": "Quran",
+                "reference": "39:52"
+            },
+            {
+                "id": 7,
+                "quote": "“Indeed, whoever fears Allah – He will make for him a way out.”",
+                "author": "Quran",
+                "reference": "65:2"
+            },
+            {
+                "id": 8,
+                "quote": "“And whoever relies upon Allah – then He is sufficient for him.”",
+                "author": "Quran",
+                "reference": "65:3"
+            },
+            {
+                "id": 9,
+                "quote": "“And whoever fears Allah – He will pardon him his sins and make great for him His rewards.”",
+                "author": "Quran",
+                "reference": "65:5"
+            },
+            {
+                "id": 10,
+                "quote": "“And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts that you might give thanks.”",
+                "author": "Quran",
+                "reference": "16:78"
+            }
+        ]
+    },
+    {
+        "name": "Grateful",
+        "emoji": "🥹",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“If you are grateful, I will surely increase you [in favor].”",
+                "author": "Quran",
+                "reference": "14:7"
+            },
+            {
+                "id": 2,
+                "quote": "“And whatever of blessings and good things you have, it is from Allah.”",
+                "author": "Quran",
+                "reference": "16:53"
+            },
+            {
+                "id": 3,
+                "quote": "“So remember Me; I will remember you. Be thankful to Me and do not deny Me.”",
+                "author": "Quran",
+                "reference": "2:152"
+            },
+            {
+                "id": 4,
+                "quote": "“And Allah loves the grateful.”",
+                "author": "Quran",
+                "reference": "2:153"
+            },
+            {
+                "id": 5,
+                "quote": "“Whoever is grateful, his gratitude is only for [the benefit of] himself.”",
+                "author": "Quran",
+                "reference": "31:12"
+            },
+            {
+                "id": 6,
+                "quote": "“And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.'”",
+                "author": "Quran",
+                "reference": "14:7"
+            },
+            {
+                "id": 7,
+                "quote": "“Whoever desires the reward of this world - then with Allah is the reward of this world and the Hereafter. And ever is Allah Hearing and Seeing.”",
+                "author": "Quran",
+                "reference": "3:185"
+            },
+            {
+                "id": 8,
+                "quote": "“So whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it.”",
+                "author": "Quran",
+                "reference": "99:7-8"
+            },
+            {
+                "id": 9,
+                "quote": "“And it is He who has made you successors upon the earth and has raised some of you above others in degrees [of rank] that He may try you through what He has given you.”",
+                "author": "Quran",
+                "reference": "6:165"
+            },
+            {
+                "id": 10,
+                "quote": "“And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts that you might give thanks.”",
+                "author": "Quran",
+                "reference": "16:78"
+            }
+        ]
+    },
+    {
+        "name": "Regretful",
+        "emoji": "😭",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“Do not despair of the mercy of Allah. Indeed, Allah forgives all sins.”",
+                "author": "Quran",
+                "reference": "39:53"
+            },
+            {
+                "id": 2,
+                "quote": "“And whoever does righteous deeds, whether male or female, while being a believer – those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed.”",
+                "author": "Quran",
+                "reference": "4:124"
+            },
+            {
+                "id": 3,
+                "quote": "“And whoever fears Allah – He will make for him a way out and will provide for him from where he does not expect.”",
+                "author": "Quran",
+                "reference": "65:2-3"
+            },
+            {
+                "id": 4,
+                "quote": "“And it is He who accepts repentance from His servants and pardons misdeeds, and He knows what you do.”",
+                "author": "Quran",
+                "reference": "42:25"
+            },
+            {
+                "id": 5,
+                "quote": "“And whoever repents and does righteousness has indeed turned to Allah with [accepted] repentance.”",
+                "author": "Quran",
+                "reference": "25:71"
+            },
+            {
+                "id": 6,
+                "quote": "“Say, 'O My servants who have transgressed against themselves [by sinning], do not despair of the mercy of Allah. Indeed, Allah forgives all sins. Indeed, it is He who is the Forgiving, the Merciful.'”",
+                "author": "Quran",
+                "reference": "39:53"
+            },
+            {
+                "id": 7,
+                "quote": "“And whoever fears Allah – He will make for him a way out and will provide for him from where he does not expect.”",
+                "author": "Quran",
+                "reference": "65:2-3"
+            },
+            {
+                "id": 8,
+                "quote": "“Indeed, those who have believed and those who were Jews or Christians or Sabeans – those [among them] who believed in Allah and the Last Day and did righteousness – no fear will there be concerning them, nor will they grieve.”",
+                "author": "Quran",
+                "reference": "2:62"
+            },
+            {
+                "id": 9,
+                "quote": "“And whoever fears Allah – He will pardon him his sins and make great for him His rewards.”",
+                "author": "Quran",
+                "reference": "65:5"
+            },
+            {
+                "id": 10,
+                "quote": "“And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins – and who can forgive sins except Allah? – and [who] do not persist in what they have done while they know.”",
+                "author": "Quran",
+                "reference": "3:135"
+            }
+        ]
+    },
+    {
+        "name": "Lazy",
+        "emoji": "🥱",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "“And those who strive for Us – We will surely guide them to Our ways. And indeed, Allah is with the doers of good.”",
+                "author": "Quran",
+                "reference": "29:69"
+            },
+            {
+                "id": 2,
+                "quote": "“Take advantage of five before five: your youth before your old age, your health before your sickness, your wealth before your poverty, your free time before your preoccupation, and your life before your death.”",
+                "author": "Quran",
+                "reference": "Al-Mujadila 58:11"
+            },
+            {
+                "id": 3,
+                "quote": "“And whoever does righteous deeds, whether male or female, while being a believer – those will enter Paradise and will not be wronged, [even as much as] the speck on a date seed.”",
+                "author": "Quran",
+                "reference": "4:124"
+            },
+            {
+                "id": 4,
+                "quote": "“Indeed, Allah does not change the condition of a people until they change what is in themselves.”",
+                "author": "Quran",
+                "reference": "13:11"
+            },
+            {
+                "id": 5,
+                "quote": "“And whoever fears Allah – He will make for him a way out and will provide for him from where he does not expect.”",
+                "author": "Quran",
+                "reference": "65:2-3"
+            },
+            {
+                "id": 6,
+                "quote": "“And Allah has extracted you from the wombs of your mothers not knowing a thing, and He made for you hearing and vision and hearts that you might give thanks.”",
+                "author": "Quran",
+                "reference": "16:78"
+            },
+            {
+                "id": 7,
+                "quote": "“So whoever does an atom's weight of good will see it, and whoever does an atom's weight of evil will see it.”",
+                "author": "Quran",
+                "reference": "99:7-8"
+            },
+            {
+                "id": 8,
+                "quote": "“Indeed, those who have believed and those who were Jews or Christians or Sabeans – those [among them] who believed in Allah and the Last Day and did righteousness – no fear will there be concerning them, nor will they grieve.”",
+                "author": "Quran",
+                "reference": "2:62"
+            },
+            {
+                "id": 9,
+                "quote": "“Whoever desires the reward of this world - then with Allah is the reward of this world and the Hereafter. And ever is Allah Hearing and Seeing.”",
+                "author": "Quran",
+                "reference": "3:185"
+            },
+            {
+                "id": 10,
+                "quote": "“Indeed, Allah does not change the condition of a people until they change what is in themselves.”",
+                "author": "Quran",
+                "reference": "13:11"
+            }
+        ]
+    }
+]
