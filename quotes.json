@@ -1,0 +1,133 @@
+    {
+        "name": "Happy",
+        "emoji": "😊",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Ali ibn Abi Talib said, 'Hearts are like wild beasts. They attach themselves to those who love and train them.'",
+                "author": "Ali ibn Abi Talib",
+                "reference": "Nahj al-Balagha, Saying 45"
+            },
+            {
+                "id": 2,
+                "quote": "Ibn Abbas said, 'A good deed brings light to the heart, illumination to the face, strength to the body, and love in the hearts of people.'",
+                "author": "Abdullah ibn Abbas",
+                "reference": "Hilyat al-Awliya by Abu Nu'aym"
+            },
+            {
+                "id": 3,
+                "quote": "Imam Shafi'i said, 'To be able to thank Allah for a blessing is a blessing within itself.'",
+                "author": "Imam Shafi'i",
+                "reference": "Diwan al-Shafi'i"
+            },
+            {
+                "id": 4,
+                "quote": "Abu Bakr as-Siddiq said, 'The more knowledge you have, the greater will be your fear of Allah.'",
+                "author": "Ab",
+                "reference": "Az-Zuhd by Imam Ahmad"
+            },
+            {
+                "id": 5,
+                "quote": "Imam Malik said, 'Knowledge does not consist in narrating much. Knowledge is but a light which Allah places in the heart.'",
+                "author": "Imam Malik",
+                "reference": "Tartib al-Madarik by Qadi 'Iyad"
+            }
+        ]
+    },
+    {
+        "name": "Sad",
+        "emoji": "😢",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Umar ibn Al-Khattab said, 'No amount of guilt can change the past, and no amount of worrying can change the future.'",
+                "author": "Umar ibn Al-Khattab",
+                "reference": "Al-Bidayah wa Nihayah by Ibn Kathir"
+            },
+            {
+                "id": 2,
+                "quote": "Hasan al-Basri said, 'O son of Adam, you are nothing but a number of days, whenever each day passes then a part of you has gone.'",
+                "author": "Hasan al-Basri",
+                "reference": "Az-Zuhd by Ibn al-Mubarak"
+            },
+            {
+                "id": 3,
+                "quote": "Ibn Qayyim said, 'Patience is that the heart does not feel anger towards what is destined and that the mouth does not complain.'",
+                "author": "Ibn Qayyim al-Jawziyya",
+                "reference": "Madarij as-Salikin"
+            },
+            {
+                "id": 4,
+                "quote": "Ibn Taymiyyah said, 'What can my enemies do to me? My paradise is in my heart. If they imprison me, it is solitude with Allah.'",
+                "author": "Ibn Taymiyyah",
+                "reference": "Al-Wabil al-Sayyib by Ibn Qayyim"
+            },
+            {
+                "id": 5,
+                "quote": "Abdullah ibn Mubarak said, 'How many people are trapped in ill health and grief, while the blessing of Allah passes them by.'",
+                "author": "Ab",
+                "reference": "Kitab az-Zuhd"
+            }
+        ]
+    },
+    {
+        "name": "Angry",
+        "emoji": "😡",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Ali ibn Abi Talib said, 'The strongest among you is he who subdues his own anger.'",
+                "author": "Ali ibn Abi Talib",
+                "reference": "Nahj al-Balagha, Saying 5"
+            },
+            {
+                "id": 2,
+                "quote": "Hasan al-Basri said, 'Do not let your anger be upon those who obey Allah, for the armies of Allah are victorious.'",
+                "author": "Hasan al-Basri",
+                "reference": "Al-Hilyah by Abu Nu'aym"
+            },
+            {
+                "id": 3,
+                "quote": "Ibn Mubarak said, 'The beginning of knowledge is intention, then listening, then understanding, then action, then preservation, and then spreading it.'",
+                "author": "Abdullah ibn Mubarak",
+                "reference": "Az-Zuhd by Ibn al-Mubarak"
+            },
+            {
+                "id": 4,
+                "quote": "Imam Shafi'i said, 'Anger begins with madness and ends with regret.'",
+                "author": "Imam Shafi'i",
+                "reference": "Diwan al-Shafi'i"
+            },
+            {
+                "id": 5,
+                "quote": "Umar ibn Abdul Aziz said, 'The one of a man is his intellect, and his honor is his religion, while his manhood is his good character.'",
+                "author": "Umar ibn Abdul Aziz",
+                "reference": "Siyar A'lam an-Nubala by Adh-Dhahabi"
+            }
+        ]
+    },
+    {
+        "name": "Scared",
+        "emoji": "😱",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Ibn Mas'ud said, 'The true believer sees his sins as if he were sitting under a mountain which he fears may fall on him.'",
+                "author": "Abdullah ibn Mas'ud",
+                "reference": "Sahih Bukhari 6308"
+            },
+            {
+                "id": 2,
+                "quote": "Imam Ahmad ibn Hanbal said, 'If you fear to be alone, know that Allah is with you.'",
+                "author": "Imam Ahmad ibn Hanbal",
+                "reference": "Manaqib al-Imam Ahmad by Ibn al-Jawzi"
+            },
+            {
+                "id": 3,
+                "quote": "Ibn Qayyim said, 'He who has found Allah, what has he lost? And he who has lost Allah, what has he found?'",
+                "author": "Ibn Qayyim al-Jawziyya",
+                "reference": "Al-Fawa'id"
+            },
+            {
+                "id": 4,
+                "quote": "Fudayl ibn 'Iyad said, 'The fear of Allah is the fruit of​⬤
