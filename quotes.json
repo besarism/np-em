@@ -130,4 +130,196 @@
             },
             {
                 "id": 4,
-                "quote": "Fudayl ibn 'Iyad said, 'The fear of Allah is the fruit of​⬤
+                "quote": "Fudayl ibn 'Iyad said, 'The fear of Allah is the fruit of knowledge and the key to the doors of wisdom.'",
+                "author": "Fudayl ibn 'Iyad",
+                "reference": "Siyar A'lam an-Nubala by Adh-Dhahabi"
+            },
+            {
+                "id": 5,
+                "quote": "Imam Malik said, 'Knowledge does not consist in narrating much. Knowledge is but a light which Allah places in the heart.'",
+                "author": "Imam Malik",
+                "reference": "Tartib al-Madarik by Qadi 'Iyad"
+            }
+        ]
+    },
+    {
+        "name": "Disappointed",
+        "emoji": "😞",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Uthman ibn Affan said, 'Worrying about comes from sins; happiness comes from repentance.'",
+                "author": "Uthman ibn Affan",
+                "reference": "Al-Bidayah wa Nihayah by Ibn Kathir"
+            },
+            {
+                "id": 2,
+                "quote": "Ibn Taymiyyah said, 'A calamity that makes you turn to Allah is better for you than a blessing which makes you forget the remembrance of Allah.'",
+                "author": "Ibn Taymiyyah",
+                "reference": "Majmu' al-Fatawa"
+            },
+            {
+                "id": 3,
+                "quote": "Hasan al-Basri said, 'Do not resent calamities that come and the problems that occur, for perhaps in something that you dislike will be your salvation, and perhaps in something that you prefer will be your doom.'",
+                "author": "Hasan al-Basri",
+                "reference": "Az-Zuhd by Ibn al-Mubarak"
+            },
+            {
+                "id": 4,
+                "quote": "Ibn Qayyim said, 'The heart will rest and feel relief if it is settled with Allah, and it will worry and be anxious if it is settled with people.'",
+                "author": "Ibn Qayyim al-Jawziyya",
+                "reference": "Al-Fawa'id"
+            },
+            {
+                "id": 5,
+                "quote": "Abu Bakr as-Siddiq said, 'Have an sincere intention in all of your actions, and you will attain your hopes.'",
+                "author": "Abu Bakr as-Siddiq",
+                "reference": "Al-Musannaf by Ibn Abi Shaybah"
+            }
+        ]
+    },
+    {
+        "name": "Confused",
+        "emoji": "😕",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Imam Shafi'i said, 'Knowledge is that which benefits, not that which is memorized.'",
+                "author": "Imam Shafi'i",
+                "reference": "Diwan al-Shafi'i"
+            },
+            {
+                "id": 2,
+                "quote": "Ibn Mas'ud said, 'Learn, and when you have learned, act.'",
+                "author": "Abdullah ibn Mas'ud",
+                "reference": "Az-Zuhd by Imam Ahmad"
+            },
+            {
+                "id": 3,
+                "quote": "Ibn Taymiyyah said, 'The more the servant loves his Master, the less will he care for the opinions of the creation.'",
+                "author": "Ibn Taymiyyah",
+                "reference": "Majmu' al-Fatawa"
+            },
+            {
+                "id": 4,
+                "quote": "Fudayl ibn 'Iyad said, 'Whoever pursues leadership will not succeed, and whoever is content with what Allah has decreed for him will have peace.'",
+                "author": "Fudayl ibn 'Iyad",
+                "reference": "Hilyat al-Awliya by Abu Nu'aym"
+            },
+            {
+                "id": 5,
+                "quote": "Imam Ahmad ibn Hanbal said, 'People need knowledge more than they need food and drink, because they need knowledge every time they take a breath.'",
+                "author": "Imam Ahmad ibn Hanbal",
+                "reference": "Manaqib al-Imam Ahmad by Ibn al-Jawzi"
+            }
+        ]
+    },
+    {
+        "name": "Grateful",
+        "emoji": "🥹",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Ibn Qayyim said, 'Patience is of two types: patience for avoiding what is prohibited, and patience in accepting destiny.'",
+                "author": "Ibn Qayyim al-Jawziyya",
+                "reference": "Madarij as-Salikin"
+            },
+            {
+                "id": 2,
+                "quote": "Umar ibn Al-Khattab said, 'No affliction befalls a servant but that Allah expiates some of his sins because of it.'",
+                "author": "Umar ibn Al-Khattab",
+                "reference": "Al-Adab Al-Mufrad"
+            },
+            {
+                "id": 3,
+                "quote": "Imam Shafi'i said, 'Let not your tongue mention the shame of another, for you yourself are covered in shame and all men have tongues.'",
+                "author": "Imam Shafi'i",
+                "reference": "Diwan al-Shafi'i"
+            },
+            {
+                "id": 4,
+                "quote": "Hasan al-Basri said, 'Whoever is content, will have enough; whoever is not, will not have enough.'",
+                "author": "Hasan al-Basri",
+                "reference": "Az-Zuhd by Ibn al-Mubarak"
+            },
+            {
+                "id": 5,
+                "quote": "Abu Bakr as-Siddiq said, 'The more humble, the higher you will be raised; the more you forgive, the more you will be honored.'",
+                "author": "Abu Bakr as-Siddiq",
+                "reference": "Al-Bidayah wa Nihayah by Ibn Kathir"
+            }
+        ]
+    },
+    {
+        "name": "Regretful",
+        "emoji": "😭",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Ali ibn Abi Talib said, 'The sin that makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant.'",
+                "author": "Ali ibn Abi Talib",
+                "reference": "Ghurar al-Hikam"
+            },
+            {
+                "id": 2,
+                "quote": "Ibn Qayyim said, 'Regret is the beginning of repentance, and it is the foundation of the awakening of the heart.'",
+                "author": "Ibn Qayyim al-Jawziyya",
+                "reference": "Madarij as-Salikin"
+            },
+            {
+                "id": 3,
+                "quote": "Hasan al-Basri said, 'A man may commit a sin and never forget it, but because of it he enters Paradise.'",
+                "author": "Hasan al-Basri",
+                "reference": "Al-Hilyah by Abu Nu'aym"
+            },
+            {
+                "id": 4,
+                "quote": "Imam Ahmad ibn Hanbal said, 'Our sins are many, but His mercy is limitless.'",
+                "author": "Imam Ahmad ibn Hanbal",
+                "reference": "Manaqib al-Imam Ahmad by Ibn al-Jawzi"
+            },
+            {
+                "id": 5,
+                "quote": "Fudayl ibn 'Iyad said, 'If you cannot compete with the righteous in good deeds, compete with the sinners in seeking Allah's forgiveness.'",
+                "author": "Fudayl ibn 'Iyad",
+                "reference": "Siyar A'lam an-Nubala by Adh-Dhahabi"
+            }
+        ]
+    },
+    {
+        "name": "Lazy",
+        "emoji": "🥱",
+        "verses": [
+            {
+                "id": 1,
+                "quote": "Umar ibn Al-Khattab said, 'I dislike to see a man doing nothing for this world or the Hereafter.'",
+                "author": "Umar ibn Al-Khattab",
+                "reference": "Al-Bidayah wa Nihayah by Ibn Kathir"
+            },
+            {
+                "id": 2,
+                "quote": "Imam Shafi'i said, 'Time is like a sword: if you don't cut it, it will cut you.'",
+                "author": "Imam Shafi'i",
+                "reference": "Diwan al-Shafi'i"
+            },
+            {
+                "id": 3,
+                "quote": "Ibn Mas'ud said, 'I detest a man whom I see idle, neither working for this world nor for the Hereafter.'",
+                "author": "Abdullah ibn Mas'ud",
+                "reference": "Az-Zuhd by Imam Ahmad"
+            },
+            {
+                "id": 4,
+                "quote": "Hasan al-Basri said, 'O son of Adam, you are nothing but days, whenever a day passes, a part of you has gone.'",
+                "author": "Hasan al-Basri",
+                "reference": "Az-Zuhd by Ibn al-Mubarak"
+            },
+            {
+                "id": 5,
+                "quote": "Ibn Qayyim said, 'Wasting time is worse than death because death separates you from this world whereas wasting time separates you from Allah.'",
+                "author": "Ibn Qayyim al-Jawziyya",
+                "reference": "Al-Fawa'id"
+            }
+        ]
+    }
+]
