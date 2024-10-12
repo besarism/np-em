@@ -4,28 +4,16 @@
         "emoji": "😊",
         "verses": [
             {
-                "id": 1,
-                "quote": "The Prophet (peace be upon him) said, 'Whoever is not thankful for small things will not be thankful for large things.'”",
-                "author": "Prophet Muhammad (peace be upon him)",
-                "reference": "Tirmidhi 2444"
-            },
-            {
-                "id": 2,
-                "quote": "The Prophet (peace be upon him) said, 'A joyful heart is a sign of faith, and a sad heart is a sign of disbelief.'”",
-                "author": "Prophet Muhammad (peace be upon him)",
-                "reference": "Sunan At-Tirmidhi 2518"
-            },
-            {
                 "id": 3,
                 "quote": "The Prophet (peace be upon him) said, 'Smiling in the face of your brother is charity.'”",
                 "author": "Prophet Muhammad (peace be upon him)",
-                "reference": "Sahih Muslim 3008"
+                "reference": "Jami` at-Tirmidhi 1956"
             },
             {
                 "id": 4,
-                "quote": "The Prophet (peace be upon him) said, 'Allah is in the aid of His servant as long as the servant is in the aid of his brother.'”",
+                "quote": "The Prophet (peace be upon him) said, '...And Allah will aid His slave so long as he aids his brother.'”",
                 "author": "Prophet Muhammad (peace be upon him)",
-                "reference": "Sahih Muslim 2699"
+                "reference": "Hadith 36, 40 Hadith an-Nawawi"
             },
             {
                 "id": 5,
@@ -37,7 +25,7 @@
                 "id": 6,
                 "quote": "The Prophet (peace be upon him) said, 'He who does not thank people is not thankful to Allah.'”",
                 "author": "Prophet Muhammad (peace be upon him)",
-                "reference": "Sahih Bukhari 4811"
+                "reference": "Sunan Abi Dawud 4811"
             },
             {
                 "id": 7,
@@ -295,7 +283,7 @@
                 "id": 5,
                 "quote": "The Prophet (peace be upon him) said, 'Whoever does not thank people, does not thank Allah.'”",
                 "author": "Prophet Muhammad (peace be upon him)",
-                "reference": "Sahih Bukhari 4811"
+                "reference": "Sunan Abi Dawud 4811"
             },
             {
                 "id": 6,
